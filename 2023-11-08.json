@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Jimenez",
+  "age": 34,
+  "address": {
+    "street": "Uvotan Point",
+    "city": "Lohweoja",
+    "state": "TX",
+    "zip": "01366"
+  },
+  "contact": {
+    "phone": "(301) 857-2813",
+    "servicePhone": "800724735"
+  },
+  "birthday": "1992-06-08T12:45:52.354Z",
+  "ip": "108.210.61.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Poetocid za ocwo sas ahujuf ihra kitef piwjigki od wa ule fi cac jic ma pacoziba. Irokipat ula hibojlu tougru ipobitse cec vaseszaf gezu pah jumwapus susan rekobel. Rihhe susowa sipe mecho gab futud zeve alugomi den tehi mop cejzobok cawaut sephekcip bajimuiwu nonez dahgu cepu.",
+    "bio": "Mapu onujoj wuro kezpe sefuk fadvoab taguza laog an duci iv kulgi ak wu imtow kem vu do. Kobdumaj jectacow dute tod du boc vo hatam ocepicij huebkam wi nuk wekjop dopduro ahazunho hakgag kupavnor. Hop vus ulezodpeb li icusu pidur nusis nubepces puv ewomih negat pu he ap ka omeapuh likrohu. Mucpela ca fedlom tu ucpabip ihbabwe dozvoz nu il jukumdi rinetor opefu."
+  },
+  "apiKey": "1d8682f2d82a65b61d5f1b32f352b9a0b532bc4f67cdad9d9b5d5fe7cc2b75e8",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
