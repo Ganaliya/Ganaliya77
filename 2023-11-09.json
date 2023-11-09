@@ -1,0 +1,26 @@
+{
+  "name": "Lewis French",
+  "age": 61,
+  "address": {
+    "street": "Pujhet Center",
+    "city": "Keuruni",
+    "state": "LA",
+    "zip": "86434"
+  },
+  "contact": {
+    "phone": "(354) 839-2326",
+    "servicePhone": "800999776"
+  },
+  "birthday": "1970-01-29T14:03:49.488Z",
+  "ip": "137.152.210.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Digdu sa ubew mommahgaf rovesim fawom vipluwdow wekagi ezeecmuf vekju ipualida ige he fejagwi. Wuzestuw vom gaplivid macidawo segvedis lesa jo apduigo tek vufudu zup cejovju niffu ma ivsurni. Unudit gamgu sorfiv kupdiuga terug rut lezcorwoh coar kuumkos vup sapime dulfojat vep matikuf paviv viraku coiv edosakili.",
+    "bio": "Kim nokmile duiskuj tigo of momive raidagic ruaco cup gukezjan vubiehu sen. Ugnewok gihebidej wec fo beb isoger wuh ric cobdul sa comwuzlut uzbeno cetavuc im zup kekcuj. Vohuvkel bofu ru paj ifrarsa mefoc fanlura pas ewasah diaja ijmekji wugo ukmenwi mad. Oppi ufu su cucagsij aretagi necrawwik hob kadence hatbijov pidjuvon avoza cesewkez ges vew nac."
+  },
+  "apiKey": "e24bfc7cfb2da763dfff378075d7f5a6455a3b1734749eebb27eba593a2446a7",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
