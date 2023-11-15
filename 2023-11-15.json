@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Floyd",
+  "age": 52,
+  "address": {
+    "street": "Hobro Path",
+    "city": "Gavdebit",
+    "state": "NV",
+    "zip": "76223"
+  },
+  "contact": {
+    "phone": "(633) 295-7246",
+    "servicePhone": "800375277"
+  },
+  "birthday": "2000-10-18T03:17:05.220Z",
+  "ip": "100.251.234.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Etho miwusri utju le vijihoh laz lunkoceg dawlet nad zabew beano zedi eterij. Bot godtuw ral dona zolon ifu dagnemej cuasi sosdutve oviz gulsuiw zajleutu vira. Gedekuk hoh po hasomiw ividusi wufadop ihu ivufudza ja isuribwo atohal dedkinuw. Zoluhwu mimenuv su asdehfu ku li pomna fuv ozegiw huwehsaw vihziibu ewuwevaj ilki.",
+    "bio": "Veso segzes howi nevka pocmu mevudu sittam zudivoso lunvodje edejuc zonam gezovzow kej wo kez fopas. Anrojuru ferotaz li mej allizap co isveosa naraw guhif huvimfu tatok te. Ojuse zo fuki nepo od faj ilufeese jij tidnapiz pegsip vusja icaruhca gaus cucde."
+  },
+  "apiKey": "a1eb3b50939de50dda618d8f0f9bff79684b0c61b6bc9e72dd75e7ee220ef4e9",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
