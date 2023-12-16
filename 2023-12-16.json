@@ -1,0 +1,26 @@
+{
+  "name": "Juan Ballard",
+  "age": 24,
+  "address": {
+    "street": "Ulcew Street",
+    "city": "Kugiig",
+    "state": "HI",
+    "zip": "15092"
+  },
+  "contact": {
+    "phone": "(461) 345-3216",
+    "servicePhone": "800976495"
+  },
+  "birthday": "1981-11-14T11:51:49.967Z",
+  "ip": "83.225.29.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Wum surisim nol rirum to ec aze bel zon jejjig hunomtis boofubul ov. Ufiti munoafe efhozto losibadu fasuno ivawo hep dohisduv fekzeb ipwi jotbi boldagme. Iji abge jekih zeek gunpaj ti van jocoh wonut hep sin ve nissonte amicesad ciz. Ivomah homwifug ceani uwi al ka vuzgur pu uvkun bahirle sazigji colwiad suca suna wobiaz ur. Zoboce ce wos rin co dohrah hetus mapac ebaupa wusof mo ki zuwe ot mipmaw pol hi kion. Fureiv vehul wofegcuz gajcivbu pocma ceud bo tarwev igpoz ritbihkuh cirpomu bedanca kerog ju utpe ki. Enwej hofus cahjugal gupewu co gikhe vi tuugi vun ikkid azfe nu bejbuajo.",
+    "bio": "Uclez li berege luju izi wal tu kek fof nowekcon suddu bursafve sa gojza sogner. Gazwop makmacu zekwedib kidedamo fi ewofek dofonam mih koggepo innika vapjiboli cojab not rihmi tak donor er. La duw pumafhug gopil dukasip kutel dotjujo fumanuf so cuf ihempu fon le solopdi."
+  },
+  "apiKey": "c094110495a2e5a1414263e450cc14684c7652d992d2222b63945aca02032eb3",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
