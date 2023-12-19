@@ -1,0 +1,26 @@
+{
+  "name": "Garrett Saunders",
+  "age": 64,
+  "address": {
+    "street": "Ekagip Junction",
+    "city": "Tovertum",
+    "state": "SC",
+    "zip": "11892"
+  },
+  "contact": {
+    "phone": "(911) 968-9950",
+    "servicePhone": "800214947"
+  },
+  "birthday": "1984-08-10T14:29:18.484Z",
+  "ip": "184.93.140.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci anu uhadukrih ponlildi kowi jazte ez dipuk fuolge sa reneton uwzebuj metuh. Buvpil wimical dow wa habcimbu jes ij bidara hev roikdow ajecoole baofime. Iduot wopipile ceula ubwi fi ru jazues geppat isumu owir jazba kegew og weldotucu sosidwu gocab do pilvimsig.",
+    "bio": "Mo op arsaj vulil numoehi duvir ziub hille kamifig uduzew biziv vabosucu. Ra fikwizafu mocdumpah lonnifob ruje zeg dab pem maraj dimeba meg rik ihnalovu rebiflof iwopiw. Rovcudris higuji zij acajaj odi elipwof muv ligoezi umze sughafgu livsi ajacilew. Ze moacenu ja oh capra dajen um licoppap vobauve sesdo fup na abiz lavogwa jizwuzun ij kinoz."
+  },
+  "apiKey": "95668965f42ae7415d543d76e3d7ff31eb44e6b16c623dfa3b68c20fe4b05030",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
