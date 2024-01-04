@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Gilbert",
+  "age": 24,
+  "address": {
+    "street": "Wicni River",
+    "city": "Reketcas",
+    "state": "NH",
+    "zip": "28091"
+  },
+  "contact": {
+    "phone": "(481) 573-8937",
+    "servicePhone": "800378626"
+  },
+  "birthday": "1964-10-22T06:06:35.442Z",
+  "ip": "222.89.134.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni jinenzek ted awetek fug jeclo nien zosim pedoso tenwaw bok eri dedeh ojbar fimer si unminu azla. Ukfola sobli ze lad idu decis ivbobow ma rigsaceta genuzdi duf cimomgim isaco. Geg vopon tobarna du ukonizer caddabiv juroze defo canto lu tuj beso copjic ezelim ra kasiat bum ruzuzor.",
+    "bio": "Efu hercute fibe rabufgi eju oke tesumbi numzud pudaw uco tovvu at ajfakil ow zifzud ub dalwot mum. Zi liw gagug ono wi duojeda okobi caisi zewijreb fudufpav pagowo palonlek mem. Kob damdobe ziwfawe fezwapu fi haow sidtisjiz ojdiaz ewgeloz vamjusze hifnu ub vuosak nu olmo ivpin he."
+  },
+  "apiKey": "fd553263fa15b2a05af9efdd9b1c34b240815f7602c8548980c0371efc6a7f0d",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
