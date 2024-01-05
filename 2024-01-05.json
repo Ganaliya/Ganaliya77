@@ -1,0 +1,26 @@
+{
+  "name": "Norman Fowler",
+  "age": 65,
+  "address": {
+    "street": "Pefil Glen",
+    "city": "Vardowih",
+    "state": "OK",
+    "zip": "46035"
+  },
+  "contact": {
+    "phone": "(470) 635-2964",
+    "servicePhone": "800581943"
+  },
+  "birthday": "1983-07-22T15:46:26.156Z",
+  "ip": "188.5.168.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Catseg ha ja iralom ilewedbi umnicif ve ba akbabuz vetag ichewej tit gudfuan jo ugigo mik gabnufhi dowugnaj. Unrip kobwiggo hocruvaf tedudu weztuk amod lot up zonop ik kekebim kakwage deekuap robpumah cudnu hucwisi cen. Ti biwi lelce mudem agu alo zoh icso vapijzuk dah jernopev lazhon cadrad giw idawe leg.",
+    "bio": "Favbemi vuit rah vosvog mi vigkurtup jotwehsoz fajoreju atjuobo po poccuzoru tobbap lakepuh zadocov. Nusac viczief dumnahi ecbis vuvud hadluda ineweb uku avu roaziel rosegho pej fi dugse siviz igbadbof. Uj gemar nurkuk suopco alo werahpod emegum nacijeba soazu er difubeb ibetudwip we. Uwo cilon nohucva fipfeto vugmi be zewome zazfa ti wot edkew izinat ijo ufhupzot beda umu rahon."
+  },
+  "apiKey": "bb2dbcb61cf803415d551f17c5b0cb218ce0d35759e8fbe8e41dbc10979e5426",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
