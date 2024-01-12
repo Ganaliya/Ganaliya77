@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Stephens",
+  "age": 24,
+  "address": {
+    "street": "Loztej Circle",
+    "city": "Pehzefor",
+    "state": "ID",
+    "zip": "93553"
+  },
+  "contact": {
+    "phone": "(458) 903-8286",
+    "servicePhone": "800312929"
+  },
+  "birthday": "1978-12-23T03:18:56.123Z",
+  "ip": "86.250.1.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Denhob kalali li ver lolvugop jiren fude lupokseg wasud zawonmi bihipodo fijivaja wuc ku purwo si. Zufsaj toaj mola objin lafitmoc oholizu ju ez wuawimir ucu kamikdi je jo. Dinokziv nic gekmew jofenwud tizi taciw tulul da lefupa mudliih wucdamgaj zulwe vite. Jutnaave wura geg owomekok derlig pisvam wavurhog pudzuvose wizesad heran nom zead we tukvih keubkol. Tuthabsi eci ro becpeco dujuni magi ala ki badevdu zalmuige ojo seghigpak.",
+    "bio": "Ru gompoz paggedi dabjozi gohe fu hu bife oslecer fed daj lapnan ko noku gudnebhen. Baprup aj ug dejpenape ub umpu ivwibowi kimsal tumwoho picooc zafehke weof apoge uh. Atdavari macjam odoceum cotdule mij disejuge roli ahli lecfujza bizehi enawilci golwapdub. Cajdiw vojniri nuc aca gem si obva ij ilofufa masbumre buj kerbodke woasiawu. Mamzi zul kunuv ma si pobof luce fic boodude hun hoirwo guiseib cecaf giwbo zembeptu."
+  },
+  "apiKey": "10cc3b34b220b4dc62e1056b79b0e84da0effab49cea8fa152886a8bb86576b9",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
