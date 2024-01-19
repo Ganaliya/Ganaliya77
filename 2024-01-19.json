@@ -1,0 +1,26 @@
+{
+  "name": "Billy Becker",
+  "age": 53,
+  "address": {
+    "street": "Licki View",
+    "city": "Mugtuosa",
+    "state": "IL",
+    "zip": "22026"
+  },
+  "contact": {
+    "phone": "(303) 361-3405",
+    "servicePhone": "800189441"
+  },
+  "birthday": "1964-07-04T18:34:42.875Z",
+  "ip": "224.235.162.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Mutjugmo wu hizopo av coogouvi elgis lu mezo jilmehte sahu vabi ru megnej pocmadgo. Vu fod mol zar hacramhim ur ife huv bip ovi kaahiuh hal aplapzu. Ernecnad azoroti ruziw nijozi gutsahwu hupud kelkikob wigvi rehateb ig korar tu we.",
+    "bio": "Kelic bif ta wicso ogoafzaj ze hehco jevihudoc apmoc lajgak ijedolmi hirofo jej vibrot ke. Gup fomvumpaj viwboce cefsa esebibok we lufuho gizzasjos za ujkajcac tajmegsa den uz ti gaj vedceh vuppem. Ha ahu lid geptokah linkappat ikerak jalowo hevuka liag ji goma ci."
+  },
+  "apiKey": "e81aa44cdba68b84e7cfaef88a03737a85128f7f18a0bb4495abc5d043b02516",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
