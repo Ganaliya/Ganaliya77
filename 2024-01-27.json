@@ -1,0 +1,26 @@
+{
+  "name": "Ian Copeland",
+  "age": 35,
+  "address": {
+    "street": "Gutsa Manor",
+    "city": "Fadikse",
+    "state": "AZ",
+    "zip": "00461"
+  },
+  "contact": {
+    "phone": "(637) 201-6190",
+    "servicePhone": "800772329"
+  },
+  "birthday": "1969-01-10T14:17:09.555Z",
+  "ip": "205.123.169.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Biseptig azulo joek ari iru ivege lega bur ri fosbahneh avu zebu jacnewsum adju irmogwi ofso tifij fotfifzu. Rom ecu bip webo gewo pug bu si hugehum bofas fifdukice im fi vazuahi. Du tu enupilpew uca ahozeek fiutlic nigelot mawegti jiwsi vo eliazido ziwhic ob oziro vosab sal hijaf. Zornirwo nu tibano apjij siksako eccuc aso huwe rewrikbi ko pit isuemu. Fifi denob wobhek pek jeci rut zo ba ciho peguzum bicekef jitotu fil nagwirga jusbaet mesnevce. Safkos luv imu rafu ped hiovi dur weir dedikeoha siha togafsi mekelu ceovewuf wec zehhetib sigmaem uwoodbiz lubof.",
+    "bio": "Wepo kecsanis loodohid ripak dizug gohtowaz rikocag per kaolma use hevucosiv solut us nalirzat usgag cewmanir jamum kuv. Hiinu otumo otasezom cap bucmana afo de dipib hozufre olauvome nura tar. Vob atikovvo pekvontut hifkamwu iniver uc dapgo wubfu mude cos ko fisos juji kocta gaape."
+  },
+  "apiKey": "3dfc43e839ab3d921e524dcfd1c8a1e3774808f1f8769e1ae1dfc0fc3acb6fce",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
