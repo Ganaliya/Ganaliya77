@@ -1,0 +1,26 @@
+{
+  "name": "Tom Nguyen",
+  "age": 22,
+  "address": {
+    "street": "Uzomi Terrace",
+    "city": "Owihagbi",
+    "state": "VA",
+    "zip": "90882"
+  },
+  "contact": {
+    "phone": "(917) 615-5584",
+    "servicePhone": "800716829"
+  },
+  "birthday": "2004-12-14T10:51:34.196Z",
+  "ip": "213.84.173.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Fit jekowa zuk jibi serop degsoh di gu lehnevop wud uwniw behimna somwaub. Soborom ajo vubufmu foce wi itilon hodamu ojpej ib ko ri goosmu ejumi hurbugi to zirla. Vevuz ih nusev rip wa tadillej weemuizo zuhomu on kudirbi nuv pin voroof ciktoeto. Feajoeza bam hav sebdutzut peho milegawu ufojew lonte atkid vi sa opufuse na sehu ap mirad toj liwzi. Gopbid mu izo imu bok ogbajuv veicu apakbi jijbo josvi eh guhaho. Gibadowi zewari wolucic asetu dih ihuri buhriv usuwu fu ewu nil uf ta ruiwozu rarez aswal. Mo dessi oz liffidaji worgera olvir obji resobwac ja ukeatewa tuh hi cuduhew wetdit.",
+    "bio": "Lo bew pijaloce numarti ak uroaw jizavwu ozgeh ga fiskujjel subjo wujijo icobe guufzu sutke ise udobak cit. Kula lo zas je kira hita duozbu uvawov jive komisjiw kitfopi gowwa. Ku ra ho umjut emuvko humwa ibaheja savole duhuznuz kot red macufe cuz wu. Vu ujnara izsob ba ijarodo rerlut lefo torne ilu isibi imvek ukiha jicifuw gavah pi fidcuh huhipa. Zakwu givaban tuzvonrit guk foug wuriah rehbefe kiw muz sausuv citzemoc wuchutuz nihe uhuow forawof rojep cetnoktic vo. Fil feowueco weole aliajguw magbe laodocit zapugaka ocoepre ehanicsas zo ka pig fakge zin raseco zi puk hewweli."
+  },
+  "apiKey": "c1351f8f872c912e34502302da6fd0bb5b2a70d194f2d7ce8f254b00a417f9dd",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
