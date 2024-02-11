@@ -1,0 +1,26 @@
+{
+  "name": "Iva Coleman",
+  "age": 51,
+  "address": {
+    "street": "Mitap Mill",
+    "city": "Videbam",
+    "state": "TX",
+    "zip": "89872"
+  },
+  "contact": {
+    "phone": "(237) 528-6907",
+    "servicePhone": "800499517"
+  },
+  "birthday": "1986-08-04T22:49:51.255Z",
+  "ip": "178.76.14.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju jari eze edob ajozucaz ipbubis uzlu lelohaloz kilveil kivra feapegok java jaj. Mezguz vifig ezes nedut vogu ew cibkugba go cekeg anouro lujid taz oh. Cevenuja ep ga vocuw rujalwa gizerri efmef oha lit hahuwe cuk zomcuv.",
+    "bio": "Jetlomto bimuloj umais vo peham cijzidak ecuwomcu kel johzu nugebujev map lof ebi jubosure vaduclu la uh havuk. Ke tow bij zifimcaz me soroh vidu fatzunum igijahot wuun jijdiguda tew. Dudpugi roboasu za selu caeleheg ji figu aghub tis zotjudo ga nabanuzi len. Ju kuetakuk lohewus ciw piwioka evouzow jojgumkas nojvi di id cig rajpo. Aga wicoc atufuso ateenuofu mibjesuh pajpuf genbu ra luwot zowinav navpa pegekcig go hokpe. Ehuh gi bijube pabuf lokus etelehe ofje ja peripig ejburup netturob fazlohen sedisu zopaw wugpa. Loc zugsop de vasipago efwabe johek hilsowu sif en mepcoliw he ovu ilpi vefaz puvsoel of av."
+  },
+  "apiKey": "f1dcdba6b7d6b8c646a433402350f836ec130feaf36c0f75af02638fe47f64a3",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
