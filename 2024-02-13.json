@@ -1,0 +1,26 @@
+{
+  "name": "Lura Fields",
+  "age": 51,
+  "address": {
+    "street": "Umevuj Court",
+    "city": "Kohames",
+    "state": "AZ",
+    "zip": "87086"
+  },
+  "contact": {
+    "phone": "(808) 649-8054",
+    "servicePhone": "800923142"
+  },
+  "birthday": "1971-03-31T13:02:14.790Z",
+  "ip": "243.202.32.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Bi polomhov cehhiz ho lawnalaw uslu wodnuben nisviab hol dijpuced simletza nanbiw kupco gasu owe sagnav emi. Rubapon oz cilzo nanudwi ra sedhu hiw hidkec kaszo na usnesal haelera biribic ja cum oci asvepwos. Ja mem vut jud boh widud zu es ohalu naltav bu cuksas connowzab boc. Fiz be fu motsef ojeseli il diddait em lacep lo bevagwob cuvucfiz idaf unu gisujiade izugi.",
+    "bio": "Miratju zirjugem atuv de hajva ob femajap sajciv nid focpe dewege voh ba aw sur awbi. Eko mecpotak tocudlo pobur gi bizeha kufooho jecudpo didli esuvuec tuzmofij fadum kanga du deokfo rovaj. Nujtowfi ca vesewca kuk ugtim uctibo repcog bijnetma emisuhe widwuopa zejdawa rup negol arma lodolve bu pergijfe. Osidoov mepfu kuokvig nufigek fe luz powot te unuemha jodunba zojca bi ibafon ruhe egi ru. Regkij otarep doholpoh izacumih eg rirdu vis dib jot ezoac nazedta jozo ilacar ocubonoh nobbow to kuphe. Fu uwezop kudoz ucaf bugipeg rek buafo folkedev hazahoh vaisaso mi ned lome gikvav evhopok."
+  },
+  "apiKey": "b80e89bc07830ecb5d2fbfe5faec32b1a49cbb6033fb15844ff796e85fa49a32",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
