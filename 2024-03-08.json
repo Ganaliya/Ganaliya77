@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Sharp",
+  "age": 19,
+  "address": {
+    "street": "Imiru Key",
+    "city": "Nosiec",
+    "state": "OH",
+    "zip": "21777"
+  },
+  "contact": {
+    "phone": "(225) 961-6110",
+    "servicePhone": "800796779"
+  },
+  "birthday": "1990-10-29T17:58:42.702Z",
+  "ip": "118.190.229.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu kid wu mitava suf jugijo rugwu kusa ujibuci cumo jutup hij ev ekgeiw pufeh un dokre givu. Lithi kop inwa hevgevbeh lunbas su febrotzat penkuw racsupot fet hoc nelvaer wud tuvroaw lestow kebcujim wahpib fuhazkan. Igzugzij lacer tu hivpe nake zic kapfaw poros mo delatana jilzumon zohu fi pulfahi cow. Zis newug voko katiris cewlaj ozpa fuvo pih ita ir rac mu gabedsi di hegmo eme. Erut powubaf zujsakir giucu fe zin jegi ginbal hacinwa dujojun zevgez faaveot om.",
+    "bio": "Uh loba kobabisi co mehil casri noabe vualu esmihkes maz obi picuc. Wuhonuc vi caul natinof segkic afohiwhew gupcar fofvez kuzu jeh kizeg aceda ule dumo rakge cecminbe ive. Aktadwuh peada kiidi cuv mow fetafuj fa iciem gupehwa huszesuw mop bisic mog foci. Pawbebope dinevepi sevciog tape tuwdeh lor bife vavoez gumtuwgo tedred zan nola jiv idnu newgah ca keuw. Figemipe dovuloho sihvah zi susdoibu gufa fatkuwi kuvismij gijufeozu ejnika hagno rolsib ciphel arikpoj lokwo."
+  },
+  "apiKey": "aab989d855c65aa1e3697117421e5ad4eb38e5d8d061b8328bc763b7b5d60f5e",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
