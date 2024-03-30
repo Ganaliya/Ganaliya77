@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Conner",
+  "age": 34,
+  "address": {
+    "street": "Pitu View",
+    "city": "Woklura",
+    "state": "MT",
+    "zip": "66735"
+  },
+  "contact": {
+    "phone": "(378) 972-3057",
+    "servicePhone": "800927239"
+  },
+  "birthday": "1971-10-08T09:44:30.939Z",
+  "ip": "177.124.129.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Kozuspa mineuw boriktad zo radco isufa tanmufuzu ci gota ihvon goretdi gitun afbihsog buagnin. Meku im ilarapwad usuvekir jovhebe taz oja me zu hufajdu feg tous oh gaghi ak jueto hosgibaca tobe. Go joro cubobwa nalsiwin ugkeduw of dopkimta mejubhu nig holip fabzu ejipaf baufpep. Melsofwa wiwbub zipoze behep saawire gibohoj vilso pu nop wefza raccobtad hohulapa lotfif bisirep. Hovuvde su siji sokanopog pewhij igaidpo bo pev upa tardavna olehavus jun fidbupa ri fa hir ta dul.",
+    "bio": "Niwnivwo eh sizutut jer igeikheb celric luf eke duv dove ar upu ilmehu. Cirag peruv iwi sepgalte dozomes po uddina pablumgit ewi samoha kah afuvekri wu viniz. Fuf fel la avzi me uv uhi mamolig buorifij almi judkehiz di mazuj."
+  },
+  "apiKey": "17eedf26f7419dbf92cee74843d8e965968bb0e9bbc475c0fe75e6756b42e957",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
