@@ -1,0 +1,26 @@
+{
+  "name": "Addie Harper",
+  "age": 60,
+  "address": {
+    "street": "Sotov Mill",
+    "city": "Gujeseb",
+    "state": "MO",
+    "zip": "42551"
+  },
+  "contact": {
+    "phone": "(655) 437-5770",
+    "servicePhone": "800369427"
+  },
+  "birthday": "1964-01-15T09:25:19.196Z",
+  "ip": "201.62.173.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Lazih wojeake awe cecuw tedoto ofokozop owocal del pocceh mepi da bulo awod mervi silatver ce zozakba. Bo gokheiv ce ulrijoj dicofed sob tibe guka dodulo noz daeli fiheoj. Vujbe acojo vucauf defad ve magias zegup zikzi oroicve dorze paswemje suwmauve casiwew. Efda epcetlip berha ecmijon hec revug ogul urezouf fat hetodzo nirofiudo fufevu oka we pozha siewecob kope.",
+    "bio": "Roguni isgeseb henove za uvedalri giwoto hi umcajdad se hifte ma cipe ziudu. Sobava lafwam itiavoteb ba vefuce sufwuwuh sehcepin bad wojuki adkun jub jop bucro hadpa. We di jic gow habfav jer oliwaj ed vaic doado rosato jumo ojheub solep lip kourjiz nas."
+  },
+  "apiKey": "e71be830b8f516abc4f4952608c13c8dfa3bc908b236233d8e6e998ab9bd7b42",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
